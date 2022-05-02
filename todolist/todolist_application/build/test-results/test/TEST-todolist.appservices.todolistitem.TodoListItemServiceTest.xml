@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="todolist.appservices.todolistitem.TodoListItemServiceTest" tests="2" skipped="0" failures="0" errors="0" timestamp="2022-03-27T18:24:34" hostname="Nilss-MBP" time="0.564">
+  <properties/>
+  <testcase name="A single item can be created" classname="todolist.appservices.todolistitem.TodoListItemServiceTest" time="0.555"/>
+  <testcase name="The status of an item can be changed" classname="todolist.appservices.todolistitem.TodoListItemServiceTest" time="0.008"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>
